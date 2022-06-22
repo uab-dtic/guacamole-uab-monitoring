@@ -3,8 +3,33 @@ owner: uab-dtic # Your GitHub organization or username, where this repository li
 repo: guacamole-uab-monitoring # The name of this repository
 
 sites:
+  - name: guaca-med
+    url: https://guacamed.uab.cat/guacamole/
+  - name: guaca-cib
+    url: https://alvocatcib.uab.cat/guacamole/
   - name: guaca-sbd
     url: https://aules.sbd.uab.cat/guacamole/
+  - name: guaca-fti
+    url: https://serim-guacamole.uab.cat/guacamole/
+  - name: guaca-eie
+    url: https://aules.fee.uab.cat/guacamole/
+  - name: guaca-vet
+    url: https://guacavet.uab.cat/guacamole/
+  - name: guaca-cc
+    url: https://alvocatcc.uab.cat/guacamole/
+  - name: guaca-ee
+    url: https://aperture.uab.cat/guacamole/
+  - name: guaca-soc
+    url: https://aules.ccss.uab.cat/guacamole/
+  - name: guaca-edu
+    url: https://guacaedu.uab.cat/guacamole/
+  - name: guaca-llet
+    url: https://guacallet.uab.cat/guacamole/
+  - name: guaca-psico
+    url: https://guacapsico.uab.cat/guacamole/
+  - name: guaca-liam
+    url: https://aules.liam.uab.cat/guacamole/
+  
   - name: Google
     url: https://www.google.com
   - name: Wikipedia

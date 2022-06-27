@@ -193,18 +193,18 @@
     "icon": "https://favicons.githubusercontent.com/guacallet.uab.cat",
     "slug": "guaca-llet",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 760,
     "timeDay": 568,
     "timeWeek": 760,
     "timeMonth": 760,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2022-06-27": 0
+      "2022-06-27": 7
     }
   },
   {
@@ -212,9 +212,9 @@
     "url": "https://guacapsico.uab.cat/guacamole/",
     "icon": "https://favicons.githubusercontent.com/guacapsico.uab.cat",
     "slug": "guaca-psico",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -223,7 +223,9 @@
     "timeWeek": 554,
     "timeMonth": 554,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-27": 0
+    }
   },
   {
     "name": "guaca-liam",
@@ -231,11 +233,11 @@
     "icon": "https://favicons.githubusercontent.com/aules.liam.uab.cat",
     "slug": "guaca-liam",
     "status": "up",
-    "uptime": "95.84%",
+    "uptime": "95.85%",
     "uptimeDay": "96.55%",
-    "uptimeWeek": "95.84%",
-    "uptimeMonth": "95.84%",
-    "uptimeYear": "95.84%",
+    "uptimeWeek": "95.85%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "95.85%",
     "time": 1511,
     "timeDay": 1326,
     "timeWeek": 1511,

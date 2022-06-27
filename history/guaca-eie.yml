@@ -1,7 +1,7 @@
 url: https://aules.fee.uab.cat/guacamole/
-status: down
-code: 502
-responseTime: 1138
-lastUpdated: 2022-06-27T08:36:00.156Z
+status: up
+code: 200
+responseTime: 1374
+lastUpdated: 2022-06-27T08:45:17.369Z
 startTime: Wed Jun 22 2022 12:45:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -30,11 +30,6 @@ sites:
   - name: guaca-liam
     url: https://aules.liam.uab.cat/guacamole/
   
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

@@ -1,7 +1,7 @@
 url: https://guacavet.uab.cat/guacamole/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-07-25T11:16:28.144Z
+status: up
+code: 200
+responseTime: 643
+lastUpdated: 2022-07-25T11:50:46.195Z
 startTime: Wed Jun 22 2022 12:45:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

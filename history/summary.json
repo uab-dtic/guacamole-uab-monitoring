@@ -149,7 +149,7 @@
     "uptime": "48.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.84%",
+    "uptimeMonth": "4.83%",
     "uptimeYear": "48.19%",
     "time": 988,
     "timeDay": 0,
@@ -157,7 +157,7 @@
     "timeMonth": 1054,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2022-08-17": 600,
+      "2022-08-17": 608,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -217,12 +217,12 @@
     "url": "https://aules.ccss.uab.cat/guacamole/",
     "icon": "https://favicons.githubusercontent.com/aules.ccss.uab.cat",
     "slug": "guaca-soc",
-    "status": "up",
-    "uptime": "97.59%",
-    "uptimeDay": "91.25%",
+    "status": "down",
+    "uptime": "97.69%",
+    "uptimeDay": "91.23%",
     "uptimeWeek": "87.60%",
-    "uptimeMonth": "95.58%",
-    "uptimeYear": "97.59%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "97.69%",
     "time": 6028,
     "timeDay": 11700,
     "timeWeek": 8894,
@@ -245,7 +245,7 @@
       "2022-07-27": 7,
       "2022-07-26": 7,
       "2022-07-20": 23,
-      "2022-07-19": 106
+      "2022-07-19": 30
     }
   },
   {

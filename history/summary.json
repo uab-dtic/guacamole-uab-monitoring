@@ -100,11 +100,11 @@
     "icon": "https://favicons.githubusercontent.com/aules.fee.uab.cat",
     "slug": "guaca-eie",
     "status": "up",
-    "uptime": "89.43%",
+    "uptime": "89.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.07%",
-    "uptimeYear": "89.43%",
+    "uptimeYear": "89.44%",
     "time": 1400,
     "timeDay": 997,
     "timeWeek": 1986,
@@ -169,7 +169,7 @@
     "timeMonth": 0,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2022-09-07": 1382,
+      "2022-09-07": 1411,
       "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
@@ -254,11 +254,11 @@
     "url": "https://aules.ccss.uab.cat/guacamole/",
     "icon": "https://favicons.githubusercontent.com/aules.ccss.uab.cat",
     "slug": "guaca-soc",
-    "status": "up",
+    "status": "down",
     "uptime": "91.42%",
-    "uptimeDay": "89.45%",
+    "uptimeDay": "89.44%",
     "uptimeWeek": "98.49%",
-    "uptimeMonth": "78.15%",
+    "uptimeMonth": "78.17%",
     "uptimeYear": "91.42%",
     "time": 5831,
     "timeDay": 12576,
@@ -285,7 +285,7 @@
       "2022-08-14": 115,
       "2022-08-13": 195,
       "2022-08-12": 126,
-      "2022-08-11": 157
+      "2022-08-11": 151
     }
   },
   {

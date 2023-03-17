@@ -267,7 +267,7 @@
     "timeMonth": 0,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2023-03-17": 720,
+      "2023-03-17": 802,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
@@ -705,9 +705,9 @@
     "url": "https://aules.liam.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/aules.liam.uab.cat.ico",
     "slug": "guaca-liam",
-    "status": "up",
+    "status": "down",
     "uptime": "97.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "97.76%",
@@ -717,6 +717,7 @@
     "timeMonth": 1717,
     "timeYear": 1319,
     "dailyMinutesDown": {
+      "2023-03-17": 1,
       "2023-03-14": 4,
       "2023-01-25": 9,
       "2023-01-19": 5,

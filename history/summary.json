@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/guacamed.uab.cat.ico",
     "slug": "guaca-med",
     "status": "up",
-    "uptime": "92.76%",
+    "uptime": "92.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "97.27%",
-    "uptimeYear": "92.76%",
+    "uptimeYear": "92.77%",
     "time": 2812,
     "timeDay": 815,
     "timeWeek": 1004,
@@ -274,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2023-03-22": 596,
+      "2023-03-22": 678,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -577,9 +577,9 @@
     "url": "https://aules.ccss.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/aules.ccss.uab.cat.ico",
     "slug": "guaca-soc",
-    "status": "up",
+    "status": "down",
     "uptime": "97.42%",
-    "uptimeDay": "92.33%",
+    "uptimeDay": "92.30%",
     "uptimeWeek": "98.57%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "97.42%",
@@ -621,7 +621,7 @@
       "2022-08-19": 50,
       "2022-08-18": 76,
       "2022-08-17": 87,
-      "2022-08-16": 89
+      "2022-08-16": 82
     }
   },
   {

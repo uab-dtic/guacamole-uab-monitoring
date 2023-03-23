@@ -281,7 +281,7 @@
     "timeMonth": 0,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2023-03-23": 1251,
+      "2023-03-23": 1257,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
@@ -586,14 +586,14 @@
     "url": "https://aules.ccss.uab.cat/guacamole/",
     "icon": "https://icons.duckduckgo.com/ip3/aules.ccss.uab.cat.ico",
     "slug": "guaca-soc",
-    "status": "up",
+    "status": "down",
     "uptime": "97.44%",
-    "uptimeDay": "88.37%",
-    "uptimeWeek": "96.18%",
+    "uptimeDay": "88.46%",
+    "uptimeWeek": "96.17%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "97.44%",
     "time": 4226,
-    "timeDay": 5215,
+    "timeDay": 5021,
     "timeWeek": 3532,
     "timeMonth": 3107,
     "timeYear": 4226,
@@ -628,7 +628,7 @@
       "2022-08-22": 49,
       "2022-08-21": 99,
       "2022-08-20": 49,
-      "2022-08-19": 22
+      "2022-08-19": 11
     }
   },
   {

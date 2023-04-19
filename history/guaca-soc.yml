@@ -1,7 +1,7 @@
 url: https://aules.ccss.uab.cat/guacamole/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-04-19T21:57:03.231Z
+status: up
+code: 200
+responseTime: 565
+lastUpdated: 2023-04-19T22:03:30.041Z
 startTime: Wed Jun 22 2022 12:45:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

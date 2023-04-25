@@ -103,7 +103,7 @@
     "slug": "guaca-sbd",
     "status": "up",
     "uptime": "97.58%",
-    "uptimeDay": "56.85%",
+    "uptimeDay": "58.59%",
     "uptimeWeek": "56.58%",
     "uptimeMonth": "89.98%",
     "uptimeYear": "97.58%",
@@ -302,7 +302,8 @@
     "timeMonth": 0,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2023-04-24": 1424,
+      "2023-04-25": 9,
+      "2023-04-24": 1440,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
